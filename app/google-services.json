@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369898025427",
+    "firebase_url": "https://loginapp-9e0e2.firebaseio.com",
+    "project_id": "loginapp-9e0e2",
+    "storage_bucket": "loginapp-9e0e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369898025427:android:69c41d10b406fa06",
+        "android_client_info": {
+          "package_name": "org.veteranhealthcarecenter.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369898025427-93tntekp6kds2m8gc5fe5vd2bsoo4fro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.veteranhealthcarecenter.loginapp",
+            "certificate_hash": "92b35e73a9cb9083ea8046e5e4d999a1e677aa0e"
+          }
+        },
+        {
+          "client_id": "369898025427-puh0giq3an8gmkl0a9airs5sfnt7g0n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqzYNht7wu3rnzCVtARuphroIGtKq6cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369898025427-puh0giq3an8gmkl0a9airs5sfnt7g0n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

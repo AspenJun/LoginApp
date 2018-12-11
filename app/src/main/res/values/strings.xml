@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string-array name="names">
+        <item>Choose</item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="occupts">
+        <item>Choose</item>
+        <item>Student</item>
+        <item>Professor</item>
+        <item>Accountant</item>
+        <item>Developer</item>
+    </string-array>
+</resources>
